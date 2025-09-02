@@ -52,13 +52,13 @@
 ## 🚀 Featured Projects
 
 - 🏦 **Credit Card Transaction Analysis** → Detecting fraud patterns with Python & ML
-- <img width="1916" height="1015" alt="Screenshot 2025-08-26 235255" src="https://github.com/user-attachments/assets/d9d7efab-0d01-459b-acf2-e3d52989b8f1" /> 
+ <img width="1916" height="1015" alt="Screenshot 2025-08-26 235255" src="https://github.com/user-attachments/assets/d9d7efab-0d01-459b-acf2-e3d52989b8f1" /> 
 - 🤖 **Interactive AI & Voice Chatbot** → Real-time chatbot with NLP + Speech Recognition
-- <img width="1919" height="1018" alt="Screenshot 2025-08-23 154559" src="https://github.com/user-attachments/assets/fec876b0-4c0d-4863-844c-3a02f6af3236" />
+ <img width="1919" height="1018" alt="Screenshot 2025-08-23 154559" src="https://github.com/user-attachments/assets/fec876b0-4c0d-4863-844c-3a02f6af3236" />
 - 📊 **Zomato Insights Dashboard** → Data analysis with Python + SQL + visualization
-- <img width="1919" height="1021" alt="Screenshot 2025-08-24 164103" src="https://github.com/user-attachments/assets/676c4386-2952-4348-b47c-c55056d7605d" />
+ <img width="1919" height="1021" alt="Screenshot 2025-08-24 164103" src="https://github.com/user-attachments/assets/676c4386-2952-4348-b47c-c55056d7605d" />
 - 🎯 **Object Detection System Using Deep Learning** → Detects and classifies objects in images/videos using computer vision techniques (CNN, YOLO, or SSD)
-- <img width="1594" height="932" alt="Screenshot 2025-08-25 142821" src="https://github.com/user-attachments/assets/4bbdad38-3d3b-4e2c-83eb-d1bf7e6df1d7" />
+ <img width="1594" height="932" alt="Screenshot 2025-08-25 142821" src="https://github.com/user-attachments/assets/4bbdad38-3d3b-4e2c-83eb-d1bf7e6df1d7" />
 
  
 
