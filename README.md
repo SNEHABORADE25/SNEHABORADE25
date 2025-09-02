@@ -7,7 +7,10 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/c9317340-ec00-4cbd-bd11-7dccc46f0f6c" width="300" align="right"/>
+
+<img src="https://github.com/user-attachments/assets/c9317340-ec00-4cbd-bd11-7dccc46f0f6c" width="400" align="right"/>
+
+
 ## 🌟 About Me
 - 🎓 Passionate about **Data Science, AI & Business Analytics**  
 - 🐍 Skilled in **Python, SQL, Machine Learning, Data Visualization**  
