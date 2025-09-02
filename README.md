@@ -12,6 +12,9 @@
 
 
 ## 🌟 About Me
+## 🌟 About Me
+![animation](https://github.com/user-attachments/assets/c9317340-ec00-4cbd-bd11-7dccc46f0f6c)
+
 - 🎓 Passionate about **Data Science, AI & Business Analytics**  
 - 🐍 Skilled in **Python, SQL, Machine Learning, Data Visualization**  
 - 📊 Experienced in **Power BI, Tableau, Advanced Excel**  
