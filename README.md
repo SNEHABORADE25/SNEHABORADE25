@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Sneha Ajit Borade 👋</h1>
 <p align="center"><em>Every dataset hides a story — I love discovering it!</em></p>
 
+| About Me | Animation |
+|----------|----------|
+| Hi! I'm Sneha Ajit Borade 👋 <br> Data Analyst | <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150"/> |
+
 ---
 
 ### 🚀 Data Analyst | Data Scientist | Python • SQL • Power BI | AI & Business Insights Enthusiast
@@ -29,13 +33,13 @@
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+---
 ### Data Science & ML
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 - ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
+---
 ### Data Visualization
 - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -45,13 +49,16 @@
 
 ## 🚀 Featured Projects
 
-- 🏦 **Credit Card Transaction Analysis** → Detecting fraud patterns with Python & ML  
-- 🎵 **AI Music Lyrics Generator** → NLP-based model for generating creative lyrics  
-- 📚 **AI Moral Story Generator with Audio** → Storytelling with NLP + Text-to-Speech  
-- 🎬 **AI Bollywood Title Song Generator** → Theme-based title & lyric creation using deep learning  
-- 🤖 **Interactive AI & Voice Chatbot** → Real-time chatbot with NLP + Speech Recognition  
-- 📊 **Zomato Insights Dashboard** → Data analysis with Python + SQL + visualization  
-- 🏥 **US Healthcare Dynamics** → Power BI dashboard analyzing healthcare trends  
+- 🏦 **Credit Card Transaction Analysis** → Detecting fraud patterns with Python & ML
+- <img width="1916" height="1015" alt="Screenshot 2025-08-26 235255" src="https://github.com/user-attachments/assets/d9d7efab-0d01-459b-acf2-e3d52989b8f1" /> 
+- 🤖 **Interactive AI & Voice Chatbot** → Real-time chatbot with NLP + Speech Recognition
+- <img width="1919" height="1018" alt="Screenshot 2025-08-23 154559" src="https://github.com/user-attachments/assets/fec876b0-4c0d-4863-844c-3a02f6af3236" />
+- 📊 **Zomato Insights Dashboard** → Data analysis with Python + SQL + visualization
+- <img width="1919" height="1021" alt="Screenshot 2025-08-24 164103" src="https://github.com/user-attachments/assets/676c4386-2952-4348-b47c-c55056d7605d" />
+- 🎯 **Object Detection System Using Deep Learning** → Detects and classifies objects in images/videos using computer vision techniques (CNN, YOLO, or SSD)
+- <img width="1594" height="932" alt="Screenshot 2025-08-25 142821" src="https://github.com/user-attachments/assets/4bbdad38-3d3b-4e2c-83eb-d1bf7e6df1d7" />
+
+ 
 
 ---
 
