@@ -1,12 +1,3 @@
-
-<p float="left">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150" align="right"/>
-  Hi! I'm Sneha Ajit Borade 👋 <br>
-  I'm a Data Analyst & Data Scientist passionate about <br>
-  Python, SQL, Power BI, AI & Machine Learning. <br>
-  I love turning data into actionable insights! 
-</p>
-
 <h1 align="center">Hi, I'm Sneha Ajit Borade 👋</h1>
 <p align="center"><em>Every dataset hides a story — I love discovering it!</em></p>
 
@@ -16,6 +7,8 @@
 
 ---
 
+<img src="![Data-Science](https://github.com/user-attachments/assets/c9317340-ec00-4cbd-bd11-7dccc46f0f6c)
+align="right"/>
 ## 🌟 About Me
 - 🎓 Passionate about **Data Science, AI & Business Analytics**  
 - 🐍 Skilled in **Python, SQL, Machine Learning, Data Visualization**  
