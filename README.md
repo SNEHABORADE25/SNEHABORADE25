@@ -12,7 +12,14 @@
 - 🐍 Skilled in **Python, SQL, Machine Learning, Data Visualization**  
 - 📊 Experienced in **Power BI, Tableau, Advanced Excel**  
 - 🤖 Exploring **NLP, AI-powered chatbots, and deep learning projects**  
-- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/sneha-borade-113701256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) • [HackerRank](https://www.hackerrank.com/profile/snehaborade30)  
+
+---
+
+## 📫 Reach Me Via
+- ✉️ Gmail: [snehaborade30@gmail.com](mailto:snehaborade30@gmail.com)  
+- 💼 LinkedIn: [Sneha Borade](https://www.linkedin.com/in/sneha-borade-113701256)  
+- 📂 Resume: [View Resume](https://drive.google.com/file/d/1nwzUDlUdSuG4kWd3R7D36nsX4LtYwZuH/view?usp=sharing)  
+- 📁 GitHub Projects: [View Projects](https://github.com/SNEHABORADE25?tab=repositories)
 
 ---
 
@@ -46,8 +53,6 @@
 - 📊 **Zomato Insights Dashboard** → Data analysis with Python + SQL + visualization  
 - 🏥 **US Healthcare Dynamics** → Power BI dashboard analyzing healthcare trends  
 
-👉 Explore more in my [Repositories](https://github.com/SNEHABORADE25?tab=repositories)
-
 ---
 
 ## 📊 GitHub Stats
@@ -61,24 +66,8 @@
 ## 🤝 Let’s Connect
 **“Data is the new oil, and I love transforming it into insights.”**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sneha-borade-113701256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sneha-borade-113701256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:snehaborade30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SNEHABORADE25?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-4B0082?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
-
-
-## Hi there 👋
-
-<!--
-**SNEHABORADE25/SNEHABORADE25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
