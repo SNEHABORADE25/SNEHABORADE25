@@ -12,9 +12,7 @@
 
 
 ## 🌟 About Me
-## 🌟 About Me
-![animation](https://github.com/user-attachments/assets/c9317340-ec00-4cbd-bd11-7dccc46f0f6c)
-
+==================
 - 🎓 Passionate about **Data Science, AI & Business Analytics**  
 - 🐍 Skilled in **Python, SQL, Machine Learning, Data Visualization**  
 - 📊 Experienced in **Power BI, Tableau, Advanced Excel**  
@@ -23,6 +21,7 @@
 ---
 
 ## 📫 Reach Me Via
+===================
 - ✉️ Gmail: [snehaborade30@gmail.com](mailto:snehaborade30@gmail.com)  
 - 💼 LinkedIn: [Sneha Borade](https://www.linkedin.com/in/sneha-borade-113701256)  
 - 📂 Resume: [View Resume](https://drive.google.com/file/d/1nwzUDlUdSuG4kWd3R7D36nsX4LtYwZuH/view?usp=sharing)  
