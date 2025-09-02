@@ -1,9 +1,14 @@
+
+<p float="left">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150" align="right"/>
+  Hi! I'm Sneha Ajit Borade 👋 <br>
+  I'm a Data Analyst & Data Scientist passionate about <br>
+  Python, SQL, Power BI, AI & Machine Learning. <br>
+  I love turning data into actionable insights! 
+</p>
+
 <h1 align="center">Hi, I'm Sneha Ajit Borade 👋</h1>
 <p align="center"><em>Every dataset hides a story — I love discovering it!</em></p>
-
-| About Me | Animation |
-|----------|----------|
-| Hi! I'm Sneha Ajit Borade 👋 <br> Data Analyst | <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150"/> |
 
 ---
 
